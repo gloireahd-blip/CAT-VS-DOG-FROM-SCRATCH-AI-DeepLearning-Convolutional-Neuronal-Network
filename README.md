@@ -85,3 +85,7 @@ $$B = B - \alpha \cdot \frac{\partial L}{\partial B}$$
 ## 🚀 Usage
 
 The model weights are saved in `.npy` format for instant use without the need for retraining.
+
+## 📁 Dataset
+The dataset used for training (500 cats and 500 dogs) is available here:  
+[Download Dataset from Google Drive](https://drive.google.com/file/d/1dnztCkhoU4CU4-TYglUTHHdCh_8D2-ut/view?usp=drive_link)
