@@ -1,4 +1,4 @@
-#  🐾 Cat vs Dog CNN from Scratch AI DeepLearning Convolutional Neuronal Network
+#  🐾 Cat vs Dog CNN from Scratch AI DeepLearning Convolutional Neural Network
 A custom-built Convolutional Neural Network (CNN) implemented from scratch using NumPy and SciPy to classify cats and dogs without deep learning frameworks. It features manual implementation of forward/backward propagation, Max-Pooling, and ReLU/Sigmoid activations to achieve 80% accuracy.
 
 ## Framework-Free Convolutional Neural Network Implementation
