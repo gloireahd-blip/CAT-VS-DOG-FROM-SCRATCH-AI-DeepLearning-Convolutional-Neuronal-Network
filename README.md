@@ -80,7 +80,11 @@ $$B = B - \alpha \cdot \frac{\partial L}{\partial B}$$
   </tr>
 </table>
 
+## 📁 Repository Structure
+* [**`cat vs dog Final.ipynb`**](cat%20vs%20dog%20Final.ipynb): A comprehensive standalone Jupyter Notebook containing a full Convolutional Neural Network (CNN) architecture built completely from scratch using raw NumPy. It handles binary image processing pipelines, matrix-based forward and backward convolutional steps, pooling layers, and model evaluation metrics for cat vs. dog image classification.
 
+---
+*Note: Computational graphs and matrix shapes have been structurally flattened to guarantee high performance on lightweight edge hardware configurations.*
 
 ## 🚀 Usage
 
