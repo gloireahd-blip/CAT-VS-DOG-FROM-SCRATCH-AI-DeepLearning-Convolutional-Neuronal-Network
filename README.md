@@ -59,7 +59,7 @@ $$B = B - \alpha \cdot \frac{\partial L}{\partial B}$$
 ## 📊 Results
 
 - **Dataset**: 1,000 images (500 for training / 500 for testing).
-- **Performance**: After 50 epochs, the model achieves **80% accuracy** on entirely unseen images.
+- **Performance**: After 50 epochs(The model was trained for 50 epochs due to the memory constraints of a 4 GB RAM PC.), the model achieves **66% accuracy** on entirely unseen images.
 
 <h3 align="center">1. Learning Curve</h3>
 <p align="center">
